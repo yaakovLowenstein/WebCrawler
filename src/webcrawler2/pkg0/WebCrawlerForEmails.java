@@ -64,9 +64,9 @@ public class WebCrawlerForEmails {
         int count = 0;
         String connectionUrl
                 = "jdbc:sqlserver://spring2019touro.cbjmpwcdjfmq.us-east-1.rds.amazonaws.com;"
-                + "database=Lowenstein364;"
-                + "user=master5779;"
-                + "password=gavEZRA5779;"
+                + "database=databaseName;"
+                + "user=userName;"
+                + "password=password;"
                 + "encrypt=false;"
                 + "trustServerCertificate=false;"
                 + "loginTimeout=30;";
